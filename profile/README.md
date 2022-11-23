@@ -1,1 +1,1 @@
-We are open-source and free to use API provider for mainly Uzbek market.
+We are create web aggency mainly focused on Laravel development. We also create open-source projects and free to use APIs for mainly Uzbek market.
